@@ -1,16 +1,16 @@
 # Image Scrape
-Image Scrape botuna hoşgeldiniz...
+Image Scrape botuna hoÅŸgeldiniz...
 
 ## Nedir?
-Bu bot Google'da sizin verdiğiniz anahtar kelimeyi aratarak çıkan ilk görselleri çekmek ve belirli bir şablonda size vermek için hazırlanmıştır.
+Bu bot Google'da sizin verdiÄŸiniz anahtar kelimeyi aratarak Ã§Ä±kan ilk gÃ¶rselleri Ã§ekmek ve belirli bir ÅŸablonda size vermek iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r.
 
-## Verdiği Şablon Nedir?
-`<addr>`<h2>title</h2><br><a href="source" target="_blank"><img src="source" width="400" height="400"/></a><br><br><br>
+## VerdiÄŸi Åablon Nedir?
+`<h2>title</h2><br><a href="source" target="_blank"><img src="source" width="400" height="400"/></a><br><br><br>`
 
 ## Versiyon 0.01
-* Anahtar kelimeye göre görsel arama
-* Google ülke domain i seçme
-* Minimum 6, maksimum 12 içerik çekip listeleme
+* Anahtar kelimeye gÃ¶re gÃ¶rsel arama
+* Google Ã¼lke domain i seÃ§me
+* Minimum 6, maksimum 12 iÃ§erik Ã§ekip listeleme
 
-# Ekran Görüntüleri
-![Index Görüntüsü](/images/index.png)
+# Ekran GÃ¶rÃ¼ntÃ¼leri
+![Index GÃ¶rÃ¼ntÃ¼sÃ¼](/images/index.png)
